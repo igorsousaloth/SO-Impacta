@@ -1,4 +1,4 @@
-# Exercício extra  ADS 3ºA  1600447
+# Exercício extra    
 
 link de busca do exercício:
 [clique aqui](http://docs.oracle.com/cd/E19048-01/chorus4/806-3328/6jcg1bm05/index.html)
